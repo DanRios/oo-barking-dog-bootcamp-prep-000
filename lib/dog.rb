@@ -1,3 +1,4 @@
+# Your code goes here!
 class Dog
   initialize(name)
   @name = name
@@ -15,5 +16,3 @@ def bark
   puts "woof!"
 end
 end
-
-# Your code goes here!
