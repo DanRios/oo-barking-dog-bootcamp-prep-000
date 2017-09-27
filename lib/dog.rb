@@ -10,7 +10,6 @@ end
 def name
   @name
 end
-
 end
 
 # Your code goes here!
